@@ -12,7 +12,7 @@ navbar:
     - text: "About"
       href: about.html
   right: 
-    - icon: fa-github
+    - text: "Github"
       href: https://github.com/vsfarrar 
-    - icon: ion-social-twitter
+    - text: "Twitter"
       href: https://twitter.com/vs_farrar
