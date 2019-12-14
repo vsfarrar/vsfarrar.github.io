@@ -7,7 +7,7 @@ navbar:
     - text: "About"
       href: about.html
   right: 
-    - text: "Github"
+    - icon: fa-github
       href: https://github.com/vsfarrar 
     - text: "Twitter"
       href: https://twitter.com/vs_farrar
