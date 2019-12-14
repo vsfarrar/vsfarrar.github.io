@@ -1,21 +1,6 @@
 ---
 title: "About Me"
 ---
-Hello, world!
-I am a Ph.D. candidate in the [Animal Behavior Graduate Group](https://anb.ucdavis.edu/) at University of California Davis, where I'm working with [Dr. Rebecca Calisi Rodríguez](http://calisilab.ucdavis.edu/)to study the neuroendocrine mechanisms of parental care and reproductive behaviors.  
+I am a Ph.D. candidate in the [Animal Behavior Graduate Group](https://anb.ucdavis.edu/) at University of California Davis, where I'm working with [Dr. Rebecca Calisi Rodríguez](http://calisilab.ucdavis.edu/) to study the neuroendocrine mechanisms of parental care and reproductive behaviors.  Specifically, I am interested in how the hormone prolactin drives tradeoffs in reproductive behaviors and the stress response while organisms focus on parental efforts.  
 
 Before starting my Ph.D., I earned my B.S. in Ecology and Evolutionary Biology from the University of Arizona, where I worked with Dr. Alex Badyaev and Dr. Renee Duckworth. After graduating in 2015, I worked as a post-baccalaureate researcher at Arizona State University with Dr. Kevin McGraw, and also taught art to K-5 public school students. 
-
-**Research interests**: Neuroendocrinology, gene expression, reproduction, parental care, prolactin, applying cutting-edge genomic tools to non-model organisms
-
-Follow me on: 
-
-* [Github](https://github.com/vsfarrar)
-
-* [Twitter](https://twitter.com/vs_farrar)
-
-* [Google Scholar](https://scholar.google.com/citations?user=WS8oHRYAAAAJ&hl=en)
-
-
-
-[![Alt text](Web link or path)](web link to website)
