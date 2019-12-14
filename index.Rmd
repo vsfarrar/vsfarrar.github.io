@@ -1,7 +1,0 @@
----
-title: "My Website"
----
-
-Hello, Website!
-
-Here's a picture.
