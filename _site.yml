@@ -1,9 +1,4 @@
 name: "V.Farrar"
-output_dir: "."
-output:
-  html_document:
-    theme: cosmo
-
 navbar:
   title: "VSF"
   left:
@@ -16,3 +11,9 @@ navbar:
       href: https://github.com/vsfarrar 
     - text: "Twitter"
       href: https://twitter.com/vs_farrar
+output_dir: "."
+output:
+  html_document:
+    theme: cosmo
+
+
