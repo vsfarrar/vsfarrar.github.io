@@ -6,6 +6,8 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Writing"
+      href: outreach.html
   right: 
     - icon: fa-github
       href: https://github.com/vsfarrar 
