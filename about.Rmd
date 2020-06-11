@@ -1,6 +1,26 @@
 ---
 title: "About Me"
----
-I am a Ph.D. candidate in the [Animal Behavior Graduate Group](https://anb.ucdavis.edu/) at University of California Davis, where I'm working with [Dr. Rebecca Calisi Rodríguez](http://calisilab.ucdavis.edu/) to study the neuroendocrine mechanisms of parental care and reproductive behaviors.  Specifically, I am interested in how the hormone prolactin drives tradeoffs in reproductive behaviors and the stress response while organisms focus on parental efforts.  
 
-Before starting my Ph.D., I earned my B.S. in Ecology and Evolutionary Biology from the University of Arizona, where I worked with Dr. Alex Badyaev and Dr. Renee Duckworth. After graduating in 2015, I worked as a post-baccalaureate researcher at Arizona State University with Dr. Kevin McGraw, and also taught art to K-5 public school students. 
+---
+### Research Experience 
+
+* 2016 - present: Ph.D. candidate in the [Animal Behavior Graduate Group](https://anb.ucdavis.edu/), University of California Davis
+    + Advisor: [Dr. Rebecca Calisi Rodríguez](http://calisilab.ucdavis.edu/)
+    + Thesis topic: The role of prolactin in reproductive tradeoffs and the stress response during parental care
+
+
+* 2015 - 2016: Post-baccaluareate research assistant, Arizona State University 
+    + Advisor: [Dr. Kevin McGraw](https://sols.asu.edu/kevin-mcgraw)
+    + Projects included: 
+        - effect of bird feeders on parasite load and gut microbiome in rural versus urban house finches 
+        - host-pathogen dynamics between house finches and *Mycoplasma gallisepticum*
+
+
+* 2012 - 2015: Undergraduate research assistant, University of Arizona 
+    + Advisors: [Dr. Alexander Badyaev](http://www.u.arizona.edu/~abadyaev/),[Dr. Kevin Bonine](https://kebonine.faculty.arizona.edu/)
+    + Honors Thesis Project: Population genetics and physiological basis of feather color variation in house finches 
+    + Other projects include: 
+       - Conservation genetics (microsatellites, mitochondrial DNA) in Gila monsters 
+       - Establishment of nest boxes for Mexican subspecies of Western bluebirds in southern Arizona 
+    + Funded by the Undergraduate Biological Research Program 
+

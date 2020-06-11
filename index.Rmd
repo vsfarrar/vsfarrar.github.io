@@ -1,14 +1,27 @@
 ---
 title: "Victoria Farrar"
+
+output:
+  html_document: 
+    css: columns.css
 ---
 
 ### _Website still in development - pardon my dust!_
 
 I am a Ph.D. candidate in Animal Behavior at the University of California Davis, working with Dr. Rebecca Calisi Rodríguez. 
 
+My research investigates the physiological mechanisms of animal behavior, with a current focus on the neuroendocrine basis of reproduction and stress responses during parental care. 
+
 Learn more about me [here.](https://vsfarrar.github.io/about.html)
 
 
+:::: {style="display: flex;"}
+
+::: {}
+[![](data/profile_pic_neetha.png){ width=250px height=250px}](http://calisilab.ucdavis.edu/people.html)
+:::
+
+::: {}
 Follow me on: 
 
 * [Github](https://github.com/vsfarrar)
@@ -16,3 +29,14 @@ Follow me on:
 * [Twitter](https://twitter.com/vs_farrar)
 
 * [Google Scholar](https://scholar.google.com/citations?user=WS8oHRYAAAAJ&hl=en)
+:::
+
+::::
+
+### Latest Updates
+
+* My SICB student journalism piece, highlighting research from the 2020 conference in Austin, is now published! Read it [here](http://www.sicb.org/students/2020/farrar.php).  
+
+
+
+
