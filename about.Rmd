@@ -25,6 +25,12 @@ Animal Behavior Graduate Group seminar series, February 2020, Davis, CA. Talk.
 Society for Integrative and Comparative Biology, January 2020, Austin, TX. Talk. 
 
 Society for Neuroscience, October 2019, Chicago, IL. Poster. 
+
+**Funding:**
+
+American Ornithological Society Van Tyne Research Award, 2019. 
+[![](data/AOS_logo.png){ width=132px height=38px}](https://americanornithology.org/awards-grants/)
+
 :::
 
 ::::
@@ -53,4 +59,4 @@ Society for Integrative and Comparative Biology, 2018, San Francisco, CA. Poster
 
 ::::
 
-
+<span style="color: gray;">[*Sketches by VSF*]{style="float:right"}</span>
