@@ -6,8 +6,6 @@ output:
     css: columns.css
 ---
 
-### _Website still in development - pardon my dust!_
-
 I am a Ph.D. candidate in Animal Behavior at the University of California Davis, working with Dr. Rebecca Calisi Rodríguez. 
 
 My research investigates the physiological mechanisms of animal behavior, with a current focus on the neuroendocrine basis of reproduction and stress responses during parental care. 
