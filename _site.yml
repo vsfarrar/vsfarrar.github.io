@@ -4,7 +4,7 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
+    - text: "Research"
       href: about.html
     - text: "News"
       href: news.html
