@@ -16,7 +16,7 @@ Learn more about my research [here.](https://vsfarrar.github.io/about.html)
 :::: {style="display: flex;"}
 
 ::: {}
-[![](data/profile_pic_neetha.png){ width=250px height=250px}](http://calisilab.ucdavis.edu/people.html)
+[![](data/pigeon_profile_pic.png){ width=203px height=185px}](http://calisilab.ucdavis.edu/people.html)
 :::
 
 ::: {}

@@ -18,11 +18,13 @@ Specifically, I focus on the pleiotropic effects of prolactin, a peptide known t
 ::: {}
 **Presentations:**
 
+Society of Integrative and Comparative Biology (SICB), January 2021, online. [Watch talk here](https://sicbannualmeeting.pathable.co/meetings/virtual/P2uFYrzEWfQykX4Aa) (*registration required*)
+
 Animal Behavior Society, July 2020, virtual. Talk. 
 
 Animal Behavior Graduate Group seminar series, February 2020, Davis, CA. Talk. 
 
-Society for Integrative and Comparative Biology, January 2020, Austin, TX. Talk. 
+SICB, January 2020, Austin, TX. Talk. 
 
 Society for Neuroscience, October 2019, Chicago, IL. Poster. 
 
@@ -41,7 +43,7 @@ Using both transcriptomic and quantitative PCR datasets, I am taking a comprehen
 
 This will shed light on where prolactin sensitivity may change and when as animals become parents, and generate hypotheses as to the function of prolactin expression beyond the pituitary. 
 
-<span style="color: purple;">Currently in prep. for *Frontiers in Neuroendocrinology*.</span>
+<span style="color: purple;">Currently in prep. for *General and Comparative Endocrinology*.</span>
 
 :::: {style="display: flex;"}
 
@@ -50,7 +52,7 @@ This will shed light on where prolactin sensitivity may change and when as anima
 
 Society for Neuroscience, November 2018, San Diego, CA. Poster.  
 
-Society for Integrative and Comparative Biology, 2018, San Francisco, CA. Poster
+Society of Integrative and Comparative Biology (SICB), 2018, San Francisco, CA. Poster
 :::
 
 ::: {}
