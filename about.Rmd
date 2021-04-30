@@ -44,6 +44,9 @@ Animals who have had parental experience tend to show a more rapid and stronger 
 
 **Funding:**
 
+Animal Behavior Society Student Research Grant, 2021. 
+![](data/abs-logo.png){width=50px height=50px}
+
 SICB Grant-in-Aid-of-Research (GIAR), 2021. 
 ![](data/sicb_logo.jpg){width=50px height=50px}
 
