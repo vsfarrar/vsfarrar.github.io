@@ -58,7 +58,7 @@ This will shed light on where prolactin sensitivity may change and when as anima
 
 
 
-<span style="color: purple;">Currently in prep. for *General and Comparative Endocrinology*.</span>
+<span style="color: purple;">Submitted to *General and Comparative Endocrinology*. Preprint available [here](https://www.biorxiv.org/content/10.1101/2021.07.13.452208v1).</span>
 
 :::: {style="display: flex;"}
 

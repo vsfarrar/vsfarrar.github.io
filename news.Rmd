@@ -1,6 +1,9 @@
 ---
 title: "News"
 ---
+* *July 2021* - My latest work is up on [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.07.13.452208v1)!Title: Prolactin and prolactin receptor expression in the HPG axis and crop during parental care in both sexes of a biparental bird (*Columba livia*)
+
+* *June 2021* - I've begun a summer fellowship with the SEISMIC multi-institution collaborative to work on my education research on equity gaps in upper divsion science courses. Learn more about the SEISMIC summer fellows [here](https://www.seismicproject.org/working-groups/measurement/2021-measurement-fellowship/). 
 
 * *April 2021* - My undergraduate mentee, Alison Ramirez, a [California Alliance for Minority Participation (CAMP)](https://urc.ucdavis.edu/camp) scholar, is presenting our project on how reproductive experience affects neural prolactin receptor expression! Check out her talk at the Undergraduate Research Conference by registering [here](https://docs.google.com/forms/d/e/1FAIpQLSewkh3jpA-hXP_0ChepwXLTU4AnfhOtxO2jVAsTANc-NM6TpQ/viewform?usp=send_form).
 
