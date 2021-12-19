@@ -10,7 +10,7 @@ I am a Ph.D. candidate in Animal Behavior at the University of California Davis,
 
 My research investigates the physiological mechanisms of animal behavior, with a current focus on the neuroendocrine basis of reproduction and stress responses during parental care. 
 
-Learn more about my research [here.](https://vsfarrar.github.io/about.html)
+Learn more about my research [here.](https://vsfarrar.github.io/dissertation-research.html)
 
 
 :::: {style="display: flex;"}
@@ -33,7 +33,11 @@ Follow me on:
 
 ### Latest Updates
 
-* Our study of prolactin and its receptor in the HPG during parental care is up on [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.07.13.452208v1)! 
+* Ph.D. chapters are coming out! The latest, looking at the causal effects of prolactin on mating and parental behaviors and HPG gene expression, is up on bioRxiv [here](https://www.biorxiv.org/content/10.1101/2021.12.13.472470v1.full.pdf).
+
+* Our paper on prolactin and its receptor across the HPG axis during parental care is out now in *General and Comparative Endocrinology* ! Read it at the [open access link here](https://www.sciencedirect.com/science/article/pii/S0016648021002331). 
+
+
 
 
 

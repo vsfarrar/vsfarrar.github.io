@@ -7,6 +7,8 @@ title: "Dissertation Research"
 The transition into parenthood requires dynamic coordination of behavior and physiology to facilitate offspring care. How do endocrine axes, such as the reproductive hypothalamus-pituitary-gonadal (HPG) and the hypothalamic-pituitary-adrenal (HPA) axis, which coordinates the glucocorticoid “stress response” also change as animals enter a parental state?
 
 Specifically, I focus on the pleiotropic effects of prolactin, a peptide known to drive and maintain parental care across vertebrates. Currently, I use hormone manipulations to get at the causal effects of prolactin on reproductive behaviors, HPG gene expression, and the stress response. We use the rock dove (*Columba livia*, a.k.a. the common pigeon) as a model. 
+
+
 :::: {style="display: flex;"}
 
 ::: {}
@@ -35,7 +37,6 @@ Society for Neuroscience, October 2019, Chicago, IL. Poster.
 
 American Ornithological Society Van Tyne Research Award, 2019. 
 [![](data/AOS_logo.png){ width=132px height=38px}](https://americanornithology.org/awards-grants/)
-
 :::
 
 ::::

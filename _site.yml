@@ -5,7 +5,11 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Research"
-      href: about.html
+      menu:
+      - text: "Dissertation"
+        href: dissertation-research.html
+      - text: "Biology Education Research"
+        href: ber.html
     - text: "News"
       href: news.html
     - text: "Writing"
@@ -15,9 +19,13 @@ navbar:
       href: https://github.com/vsfarrar 
     - icon: ion-social-twitter
       href: https://twitter.com/vs_farrar
+    - icon: fa-google
+      href: https://scholar.google.com/citations?user=WS8oHRYAAAAJ&hl=en
 output_dir: "."
 output:
   html_document:
     theme: cosmo
+    includes:
+      in_header: header.html
 
 
