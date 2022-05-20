@@ -18,7 +18,7 @@ Specifically, I focus on the pleiotropic effects of prolactin, a peptide known t
 ::: {}
 **Publications:**
 
-Farrar et al., submitted to *Hormones and Behavior*. [Preprint on bioRxiv](https://www.biorxiv.org/content/10.1101/2021.12.13.472470v1.full.pdf)
+Farrar et al., in review at *Hormones and Behavior*. [Preprint on bioRxiv](https://www.biorxiv.org/content/10.1101/2021.12.13.472470v1.full.pdf)
 
 
 **Presentations:**
@@ -44,6 +44,10 @@ American Ornithological Society Van Tyne Research Award, 2019.
 ### How does gaining parental experience affect prolactin regulation in the brain?
 
 Animals who have had parental experience tend to show a more rapid and stronger behavioral response to offspring cues, which may facilitate the increased reproductive success seen in experienced parents.  Changes in prolactin regulation may mechanistically underlie these effects. I'm studying how varying levels of parental experience, while controlling for age, affect the brain and pitutiary's responsiveness to prolactin and VIP. 
+
+**Publications:**
+
+Farrar et al., (2022). *Integrative and Comparative Biology*. [Link](https://academic.oup.com/icb/advance-article/doi/10.1093/icb/icac017/6570575?login=true)
 
 
 **Funding:**

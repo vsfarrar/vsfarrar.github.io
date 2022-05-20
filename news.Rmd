@@ -1,6 +1,10 @@
 ---
 title: "News"
 ---
+* *May 2022* - I'm officially a Doctor! I defended my dissertation, thank you to my amazing committee: Becca Calisi, Brian Trainor and Tom Hahn. 
+
+* *March 2022* - Latest paper on prolactin receptors and experience is out in *Integrative and Comparative Biology* [(link)](https://academic.oup.com/icb/advance-article/doi/10.1093/icb/icac017/6570575?login=true))
+
 * *December 2021* - Our paper on prolactin and its receptor across the HPG axis is published in *General and Comparative Endocrinology* ([Open access link](https://www.sciencedirect.com/science/article/pii/S0016648021002331)). Another study on causal effects of prolactin manipulation on reproductive behavior and HPG gene expression is now up on bioRxiv [(link)](https://www.biorxiv.org/content/10.1101/2021.12.13.472470v1.full.pdf).
 
 * *Sept. 2021* - Exit seminar complete! You can watch the recording [here](https://ucdavis.zoom.us/rec/share/oB9DecdK2WvtfexDvqT0zSq4SjToUMaPo0p9uxY0H4o94-OB7-gFButYzgtOlXNP.p7ZMxu3Dil6_eX9W) (*instutional login required*).  Now to finish writing this dissertation ... 

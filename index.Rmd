@@ -1,17 +1,14 @@
 ---
-title: "Victoria Farrar"
+title: "Victoria Farrar, Ph.D."
 
 output:
   html_document: 
     css: columns.css
 ---
 
-I am a Ph.D. candidate in Animal Behavior at the University of California Davis, working with Dr. Rebecca Calisi Rodríguez. 
+I recieved my Ph.D. in Animal Behavior at the University of California Davis, where I worked with Dr. Rebecca Calisi Rodríguez. I investigated the physiological mechanisms of animal behavior, with a focus on the neuroendocrine basis of reproduction and stress responses during parental care. Learn more about my research [here.](https://vsfarrar.github.io/dissertation-research.html)
 
-My research investigates the physiological mechanisms of animal behavior, with a current focus on the neuroendocrine basis of reproduction and stress responses during parental care. 
-
-Learn more about my research [here.](https://vsfarrar.github.io/dissertation-research.html)
-
+Additionally, I engage in discipline-based education research (DBER), and am passionate about science education and communication. 
 
 :::: {style="display: flex;"}
 
@@ -33,10 +30,7 @@ Follow me on:
 
 ### Latest Updates
 
-* Ph.D. chapters are coming out! The latest, looking at the causal effects of prolactin on mating and parental behaviors and HPG gene expression, is up on bioRxiv [here](https://www.biorxiv.org/content/10.1101/2021.12.13.472470v1.full.pdf).
-
-* Our paper on prolactin and its receptor across the HPG axis during parental care is out now in *General and Comparative Endocrinology* ! Read it at the [open access link here](https://www.sciencedirect.com/science/article/pii/S0016648021002331). 
-
+* I'm officially a Doctor! I successfully defended my dissertation, thank you to my amazing committee: Becca Calisi, Brian Trainor and Tom Hahn. 
 
 
 
