@@ -11,8 +11,17 @@ Learn more about the Measurements working groups [here](https://www.seismicproje
 
 ![](data/seismic_logo.png){width=200px height=100px}
 
+**Presentations:**
+
+* SABER West, January 2023, Irvine, CA. Talk.
+
+
 ## Performance gaps in upper-division physiology
 Combining 10 years of course performance data and student attitude surveys, we are examining how equity gaps affect performance in a core biomedical physiology course, and how student attitudes may influence these gaps. By characterizing these issues, we hope to explore opportunities for future interventions in course structure or assignments. 
+
+**Publications:**
+
+Farrar et al. *In revision*. *CBE-Life Sciences Education* 
 
 **Presentations:**
 

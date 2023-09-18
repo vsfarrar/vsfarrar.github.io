@@ -6,7 +6,7 @@ title: "Dissertation Research"
 
 The transition into parenthood requires dynamic coordination of behavior and physiology to facilitate offspring care. How do endocrine axes, such as the reproductive hypothalamus-pituitary-gonadal (HPG) and the hypothalamic-pituitary-adrenal (HPA) axis, which coordinates the glucocorticoid “stress response” also change as animals enter a parental state?
 
-Specifically, I focus on the pleiotropic effects of prolactin, a peptide known to drive and maintain parental care across vertebrates. Currently, I use hormone manipulations to get at the causal effects of prolactin on reproductive behaviors, HPG gene expression, and the stress response. We use the rock dove (*Columba livia*, a.k.a. the common pigeon) as a model. 
+Specifically, I focused on the pleiotropic effects of prolactin, a peptide known to drive and maintain parental care across vertebrates. I used hormone manipulations to get at the causal effects of prolactin on reproductive behaviors, HPG gene expression, and the stress response. We used the rock dove (*Columba livia*, a.k.a. the common pigeon) as a model. 
 
 
 :::: {style="display: flex;"}
@@ -18,12 +18,16 @@ Specifically, I focus on the pleiotropic effects of prolactin, a peptide known t
 ::: {}
 **Publications:**
 
-Farrar et al., in review at *Hormones and Behavior*. [Preprint on bioRxiv](https://www.biorxiv.org/content/10.1101/2021.12.13.472470v1.full.pdf)
+Farrar et al. (2022). *Hormones and Behavior* [[Link](https://www.sciencedirect.com/science/article/pii/S0018506X22001118)]
+
+Farrar et al. (2022). *Journal of Experimental Biology* [[Link](https://journals.biologists.com/jeb/article/225/24/jeb244820/286198)]
 
 
 **Presentations:**
 
-Society of Integrative and Comparative Biology (SICB), January 2021, online. [Watch talk here](https://sicbannualmeeting.pathable.co/meetings/virtual/P2uFYrzEWfQykX4Aa) (*registration required*)
+*Honorable Mention*, **Warder Clyde Allee symposium**, Animal Behavior Society, July 2023, Portland, OR. Talk. 
+
+Society of Integrative and Comparative Biology (SICB), January 2021, online. Talk.
 
 Animal Behavior Society, July 2020, online. Talk. 
 
@@ -43,11 +47,11 @@ American Ornithological Society Van Tyne Research Award, 2019.
 
 ### How does gaining parental experience affect prolactin regulation in the brain?
 
-Animals who have had parental experience tend to show a more rapid and stronger behavioral response to offspring cues, which may facilitate the increased reproductive success seen in experienced parents.  Changes in prolactin regulation may mechanistically underlie these effects. I'm studying how varying levels of parental experience, while controlling for age, affect the brain and pitutiary's responsiveness to prolactin and VIP. 
+Animals who have had parental experience tend to show a more rapid and stronger behavioral response to offspring cues, which may facilitate the increased reproductive success seen in experienced parents.  Changes in prolactin regulation may mechanistically underlie these effects. I studied how varying levels of parental experience, while controlling for age, affect the brain and pitutiary's responsiveness to prolactin and VIP. 
 
 **Publications:**
 
-Farrar et al., (2022). *Integrative and Comparative Biology*. [Link](https://academic.oup.com/icb/advance-article/doi/10.1093/icb/icac017/6570575?login=true)
+Farrar et al., (2022). *Integrative and Comparative Biology* [Link](https://academic.oup.com/icb/advance-article/doi/10.1093/icb/icac017/6570575?login=true)
 
 
 **Funding:**
