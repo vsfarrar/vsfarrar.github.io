@@ -13,17 +13,25 @@
 
 <title>Victoria Farrar, Ph.D.</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.16/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/anchor-sections-1.0/anchor-sections.css" rel="stylesheet" />
-<script src="site_libs/anchor-sections-1.0/anchor-sections.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 <link href="site_libs/ionicons-2.0.1/css/ionicons.min.css" rel="stylesheet" />
@@ -39,11 +47,6 @@
     </style>
 
 <style type="text/css">code{white-space: pre;}</style>
-<style type="text/css">
-  pre:not([class]) {
-    background-color: white;
-  }
-</style>
 <script type="text/javascript">
 if (window.hljs) {
   hljs.configure({languages: []});
@@ -56,32 +59,8 @@ if (window.hljs) {
 
 
 
-<style type="text/css">
-h1 {
-  font-size: 34px;
-}
-h1.title {
-  font-size: 38px;
-}
-h2 {
-  font-size: 30px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 {
-  font-size: 18px;
-}
-h5 {
-  font-size: 16px;
-}
-h6 {
-  font-size: 12px;
-}
-.table th:not([align]) {
-  text-align: left;
-}
-</style>
+
+
 
 <link rel="stylesheet" href="columns.css" type="text/css" />
 
@@ -92,10 +71,6 @@ h6 {
   max-width: 940px;
   margin-left: auto;
   margin-right: auto;
-}
-code {
-  color: inherit;
-  background-color: rgba(0, 0, 0, 0.04);
 }
 img {
   max-width:100%;
@@ -112,40 +87,16 @@ button.code-folding-btn:focus {
 summary {
   display: list-item;
 }
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
 </style>
 
 
 <style type="text/css">
-/* padding for bootstrap navbar */
-body {
-  padding-top: 51px;
-  padding-bottom: 40px;
-}
-/* offset scroll position for anchor links (for fixed navbar)  */
-.section h1 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h2 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h3 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h4 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h5 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h6 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
 .dropdown-submenu {
   position: relative;
 }
@@ -173,7 +124,7 @@ body {
   margin-right: -10px;
 }
 .dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
+  border-left-color: #adb5bd;
 }
 .dropdown-submenu.pull-left {
   float: none;
@@ -185,7 +136,7 @@ body {
 }
 </style>
 
-<script>
+<script type="text/javascript">
 // manage active state of menu based on current page
 $(document).ready(function () {
   // active menu anchor
@@ -195,11 +146,28 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.parent().addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
 });
 </script>
 
@@ -211,7 +179,6 @@ $(document).ready(function () {
   max-height: 500px;
   min-height: 44px;
   overflow-y: auto;
-  background: white;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
@@ -278,7 +245,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -291,7 +258,7 @@ $(document).ready(function () {
   <a href="index.html">Home</a>
 </li>
 <li class="dropdown">
-  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
     Research
      
     <span class="caret"></span>
@@ -336,7 +303,7 @@ $(document).ready(function () {
   </div><!--/.container -->
 </div><!--/.navbar -->
 
-<div class="fluid-row" id="header">
+<div id="header">
 
 
 
@@ -345,25 +312,45 @@ $(document).ready(function () {
 </div>
 
 
-<p>I recieved my Ph.D. in Animal Behavior at the University of California Davis, where I worked with Dr. Rebecca Calisi Rodríguez. I investigated the physiological mechanisms of animal behavior, with a focus on the neuroendocrine basis of reproduction and stress responses during parental care. Learn more about my research <a href="https://vsfarrar.github.io/dissertation-research.html">here.</a></p>
-<p>Additionally, I engage in discipline-based education research (DBER), and am passionate about science education and communication.</p>
+<p>I am currently a National Science Foundation Postdoctoral Research
+Fellow in Biology, working with <a
+href="https://alisonbelllab.web.illinois.edu/">Dr. Alison Bell</a> at
+the University of Illinois, Urbana-Champaign. I am hatching plans to
+study the neural and physiological changes associated with the recent
+loss of parental care in a population of three-spined stickleback
+(<em>Gasterosteus aculeatus</em>).</p>
+<p>I recieved my Ph.D. in Animal Behavior at the University of
+California Davis, where I worked with <a
+href="http://calisilab.ucdavis.edu/">Dr. Rebecca Calisi Rodríguez</a>. I
+investigated the neuroendocrine basis of reproduction and stress
+responses during parental care. Learn more about my dissertation
+research <a
+href="https://vsfarrar.github.io/dissertation-research.html">here</a>.</p>
+<p>I also engaged in discipline-based education research (DBER), and am
+passionate about science education and communication. You can learn more
+about my DBER work <a
+href="https://vsfarrar.github.io/ber.html">here</a>.</p>
 <div style="display: flex;">
 <div>
-<p><a href="http://calisilab.ucdavis.edu/people.html"><img src="data/pigeon_profile_pic.png" width="203" height="185" /></a></p>
+<p><a href="http://calisilab.ucdavis.edu/people.html"><img
+src="data/pigeon_profile_pic.png" width="203" height="185" /></a></p>
 </div>
 <div>
-<p>Follow me on:</p>
+<p>Find me on:</p>
 <ul>
-<li><p><a href="https://github.com/vsfarrar">Github</a></p></li>
 <li><p><a href="https://twitter.com/vs_farrar">Twitter</a></p></li>
-<li><a href="https://scholar.google.com/citations?user=WS8oHRYAAAAJ&amp;hl=en">Google Scholar</a></li>
+<li><p><a
+href="https://scholar.google.com/citations?user=WS8oHRYAAAAJ&amp;hl=en">Google
+Scholar</a></p></li>
+<li><p><a href="https://github.com/vsfarrar">Github</a></p></li>
 </ul>
 </div>
 </div>
 <div id="latest-updates" class="section level3">
 <h3>Latest Updates</h3>
 <ul>
-<li>I’m officially a Doctor! I successfully defended my dissertation, thank you to my amazing committee: Becca Calisi, Brian Trainor and Tom Hahn.</li>
+<li>I’ve moved! I am officially a postdoc in the EEB department at UIUC!
+My new email is vfarrar at illinois dot edu</li>
 </ul>
 </div>
 
@@ -394,7 +381,7 @@ $(document).ready(function () {
 
 $(document).ready(function () {
   $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
+    $(this).parent().toggleClass('nav-tabs-open');
   });
 });
 </script>

@@ -6,9 +6,11 @@ output:
     css: columns.css
 ---
 
-I recieved my Ph.D. in Animal Behavior at the University of California Davis, where I worked with Dr. Rebecca Calisi Rodríguez. I investigated the physiological mechanisms of animal behavior, with a focus on the neuroendocrine basis of reproduction and stress responses during parental care. Learn more about my research [here.](https://vsfarrar.github.io/dissertation-research.html)
+I am currently a National Science Foundation Postdoctoral Research Fellow in Biology, working with [Dr. Alison Bell](https://alisonbelllab.web.illinois.edu/) at the University of Illinois, Urbana-Champaign. I am hatching plans to study the neural and physiological changes associated with the recent loss of parental care in a population of three-spined stickleback (*Gasterosteus aculeatus*). 
 
-Additionally, I engage in discipline-based education research (DBER), and am passionate about science education and communication. 
+I recieved my Ph.D. in Animal Behavior at the University of California Davis, where I worked with [Dr. Rebecca Calisi Rodríguez](http://calisilab.ucdavis.edu/). I investigated the neuroendocrine basis of reproduction and stress responses during parental care. Learn more about my dissertation research [here](https://vsfarrar.github.io/dissertation-research.html).
+
+I also engaged in discipline-based education research (DBER), and am passionate about science education and communication. You can learn more about my DBER work [here](https://vsfarrar.github.io/ber.html).
 
 :::: {style="display: flex;"}
 
@@ -17,20 +19,20 @@ Additionally, I engage in discipline-based education research (DBER), and am pas
 :::
 
 ::: {}
-Follow me on: 
-
-* [Github](https://github.com/vsfarrar)
+Find me on: 
 
 * [Twitter](https://twitter.com/vs_farrar)
 
 * [Google Scholar](https://scholar.google.com/citations?user=WS8oHRYAAAAJ&hl=en)
+
+* [Github](https://github.com/vsfarrar)
 :::
 
 ::::
 
 ### Latest Updates
 
-* I'm officially a Doctor! I successfully defended my dissertation, thank you to my amazing committee: Becca Calisi, Brian Trainor and Tom Hahn. 
+* I've moved! I am officially a postdoc in the EEB department at UIUC! My new email is vfarrar at illinois dot edu 
 
 
 

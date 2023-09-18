@@ -10,10 +10,8 @@ navbar:
         href: dissertation-research.html
       - text: "Biology Education Research"
         href: ber.html
-    - text: "News"
-      href: news.html
-    - text: "Writing"
-      href: outreach.html
+    - text: "Undergraduate Researchers"
+      href: mentorship.html
   right: 
     - icon: fa-github
       href: https://github.com/vsfarrar 
