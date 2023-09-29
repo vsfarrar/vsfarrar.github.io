@@ -1,7 +1,21 @@
 ---
 title: "Biology Education Research"
 ---
-In addition to my dissertation research, I participate in **discipline-based education research**, specifically in biology and physiology, with Dr. Natalia Caporale. 
+In addition to my dissertation research, I participated in **discipline-based education research**, specifically in biology and physiology, with Dr. Natalia Caporale. 
+
+## Performance gaps in upper-division physiology
+Combining 10 years of course performance data and student attitude surveys, we are examining how equity gaps affect performance in a core biomedical physiology course, and how student attitudes may influence these gaps. By characterizing these issues, we hope to explore opportunities for future interventions in course structure or assignments. 
+
+**Publications:**
+
+Farrar et al. (2023) Gendered performance gaps in an upper-division biology course: academic, demographic, environmental, and affective factors. Accepted to *CBE-Life Sciences Education*. (doi & link forthcoming)
+
+**Presentations:**
+
+* SABER West, January 2021, online, talk. 
+
+* Society for the Advancement of Biology Education Research (SABER), July 2020, online, poster. 
+
 
 ## SEISMIC Initiative : Measurements Projects
 
@@ -15,16 +29,3 @@ Learn more about the Measurements working groups [here](https://www.seismicproje
 
 * SABER West, January 2023, Irvine, CA. Talk.
 
-
-## Performance gaps in upper-division physiology
-Combining 10 years of course performance data and student attitude surveys, we are examining how equity gaps affect performance in a core biomedical physiology course, and how student attitudes may influence these gaps. By characterizing these issues, we hope to explore opportunities for future interventions in course structure or assignments. 
-
-**Publications:**
-
-Farrar et al. *In revision*. *CBE-Life Sciences Education* 
-
-**Presentations:**
-
-* SABER West, January 2021, online, talk. 
-
-* Society for the Advancement of Biology Education Research (SABER), July 2020, online, poster. 

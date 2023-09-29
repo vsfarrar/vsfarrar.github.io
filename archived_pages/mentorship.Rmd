@@ -1,0 +1,101 @@
+---
+title: "Past Undergraduate Researchers"
+output: html_document
+---
+As a graduate student, I had the honor of working with many talented and amazing undergraduate researchers at UC Davis! Here are some details about them, and where they are now: 
+
+:::: {style="display: flex;"}
+
+::: {}
+![](data/JMG.png){width=203px height=200px}
+:::
+
+::: {}
+## Jaime Morales Gallardo 
+
+  California Alliance for Minority Participation (CAMP) Scholar
+
+  2021-2022
+
+**Project:** Examining glucocorticoid receptor expression in hippocampal tissue
+
+* Presented at UC Davis Undergraduate Research symposium (2022)
+* Co-author on *Journal of Experimental Biology* publication [link]
+
+**Now:** Post-baccalaureate researcher, REACH program, Stanford University 
+
+:::
+
+::::
+
+:::: {style="display: flex;"}
+
+::: {}
+## Alison Ramirez
+
+  California Alliance for Minority Participation (CAMP) Scholar
+
+  2020-2021
+
+**Project:** Effects of age and experience on prolactin receptor expression
+
+* Presented at UC Davis Undergraduate Research conference (2021)
+* Co-author on *Integrative and Comparative Biology* publication [link]
+
+**Now:** McNair Scholar, University of California Davis (Brian Trainor's lab)
+:::
+
+::: {}
+![](data/AVR.jpg){width=203px height=200px}
+:::
+
+::::
+
+:::: {style="display: flex;"}
+
+::: {}
+## Ana-Begoña Molina Gil
+
+  Independent Honors Thesis student, Animal Biology program
+
+  2019-2020
+
+**Project:** Is defensive aggression heritable in rock doves? 
+
+* Presented at UC Davis Undergraduate Research conference (2020)
+
+**Now:** D.V.M. student, UC Davis School of Veterinary Medicine
+:::
+
+::: {}
+![](data/ABMG.jpg){width=203px height=300px}
+:::
+
+::::
+
+
+:::: {style="display: flex;"}
+
+::: {}
+![](data/BNU.png){width=103px height=103px}
+:::
+
+::: {}
+## Brandon Nava Ultreras
+
+  Mentorship and Professional Development Fellow
+
+  2017-2018
+
+**Project:** Prolactin receptor expression in the avian crop sac
+
+* Presented at Society for Integrative and Comparative Biology (2018)
+* Presented at UC Davis Undergraduate Research conference (2017)
+* Co-author on *General and Comparative Endocrinology* publication [link]
+
+**Now:** Staff scientist at Roche Biosciences, Pleasanton, CA
+
+:::
+
+::::
+
