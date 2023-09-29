@@ -6,19 +6,19 @@ navbar:
       href: index.html
     - text: "Research"
       menu:
+      - text: "Postdoc"
+        href: postdoc_research.html
       - text: "Dissertation"
         href: dissertation-research.html
       - text: "Biology Education Research"
         href: ber.html
-    - text: "Undergraduate Researchers"
-      href: mentorship.html
   right: 
     - icon: fa-github
       href: https://github.com/vsfarrar 
     - icon: ion-social-twitter
       href: https://twitter.com/vs_farrar
-    - icon: fa-google
-      href: https://scholar.google.com/citations?user=WS8oHRYAAAAJ&hl=en
+    - icon: fa-solid fa-graduation-cap
+      href: https://scholar.google.com/citations?user=8UN0LJ8AAAAJ&hl=en&oi=ao
 output_dir: "."
 output:
   html_document:
