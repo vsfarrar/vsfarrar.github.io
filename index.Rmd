@@ -8,22 +8,27 @@ output:
 
 I am currently a National Science Foundation Postdoctoral Research Fellow in Biology, working with [Dr. Alison Bell](https://alisonbelllab.web.illinois.edu/) at the University of Illinois, Urbana-Champaign. I am hatching plans to study the neural and physiological changes associated with the recent loss of parental care in a population of three-spined stickleback (*Gasterosteus aculeatus*). 
 
-I recieved my Ph.D. in Animal Behavior at the University of California Davis, where I worked with [Dr. Rebecca Calisi Rodríguez](http://calisilab.ucdavis.edu/). I investigated the neuroendocrine basis of reproduction and stress responses during parental care. Learn more about my dissertation research [here](https://vsfarrar.github.io/dissertation-research.html).
+I received my Ph.D. in Animal Behavior at the University of California Davis, where I worked with [Dr. Rebecca Calisi Rodríguez](http://calisilab.ucdavis.edu/). I investigated the neuroendocrine basis of reproduction and stress responses during parental care. Learn more about my dissertation research [here](https://vsfarrar.github.io/dissertation-research.html).
 
 I also engaged in discipline-based education research (DBER), and am passionate about science education and communication. You can learn more about my DBER work [here](https://vsfarrar.github.io/ber.html).
 
 :::: {style="display: flex;"}
 
 ::: {}
-[![](data/pigeon_profile_pic.png){ width=203px height=185px}](http://calisilab.ucdavis.edu/people.html)
+![](data/pigeon_profile_pic.png){width=203px height=185px}
 :::
 
 ::: {}
+
+Contact me: *vfarrar at illinois dot edu*
+
 Find me on: 
+
+* [Bluesky](https://bsky.app/profile/vsfarrar.bsky.social)
 
 * [Twitter](https://twitter.com/vs_farrar)
 
-* [Google Scholar](https://scholar.google.com/citations?user=WS8oHRYAAAAJ&hl=en)
+* [Google Scholar](https://scholar.google.com/citations?user=8UN0LJ8AAAAJ&hl=en&oi=ao)
 
 * [Github](https://github.com/vsfarrar)
 :::
@@ -32,7 +37,13 @@ Find me on:
 
 ### Latest Updates
 
-* I've moved! I am officially a postdoc in the EEB department at UIUC! My new email is vfarrar at illinois dot edu 
+* I've moved! I am officially a postdoc in the EEB department at UIUC! 
+
+* September 2023: 
+  
+  * I recently was invited to give an early-career researcher talk at the [25th anniversary symposium of the Center for Neuroendocrine Studies](https://www.umass.edu/cns/25th-anniversary-symposium-center-neuroendocrine-studies) at the University of Massachusetts Amherst
+  
+  * My first [DBER](https://vsfarrar.github.io/ber.html) paper was accepted for publication at *CBE-Life Sciences Education*! More soon! 
 
 
 
